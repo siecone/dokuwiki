@@ -1,4 +1,9 @@
 # dokuwiki
+## build the docker image
+```
+sudo docker build -t siecone/dokuwiki:my_version .
+```
+
 ## example of docker-compose.yml
 
 ```
